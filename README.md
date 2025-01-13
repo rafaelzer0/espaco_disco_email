@@ -23,7 +23,7 @@ Você pode instalar as dependências necessárias com o seguinte comando:
 ```bash
 pip install psutil matplotlib schedule
 
-##Configuração do Gmail:
+## Configuração do Gmail:
 
 Acesse sua conta do Gmail e permita o acesso a "Aplicativos menos seguros".
 Crie um arquivo .txt contendo a senha do seu e-mail do Gmail.
