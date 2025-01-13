@@ -18,9 +18,7 @@ Este projeto contém um script Python que monitora o espaço em disco do sistema
   - `smtplib` (para envio de e-mails)
   - `schedule` (para agendamento do script)
 
-Você pode instalar as dependências necessárias com o seguinte comando:
-
-```bash
+### Você pode instalar as dependências necessárias com o seguinte comando:
 pip install psutil matplotlib schedule
 
 ## Configuração do Gmail:
